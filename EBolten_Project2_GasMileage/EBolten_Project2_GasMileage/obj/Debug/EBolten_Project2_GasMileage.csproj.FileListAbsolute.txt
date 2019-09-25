@@ -1,0 +1,9 @@
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\bin\Debug\EBolten_Project2_GasMileage.exe.config
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\bin\Debug\EBolten_Project2_GasMileage.exe
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\bin\Debug\EBolten_Project2_GasMileage.pdb
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.csprojAssemblyReference.cache
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.Form1.resources
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.Properties.Resources.resources
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.csproj.GenerateResource.cache
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.exe
+C:\Users\Emily\Desktop\EBolten_Project2_GasMileage\EBolten_Project2_GasMileage\obj\Debug\EBolten_Project2_GasMileage.pdb
